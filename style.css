@@ -8,7 +8,7 @@ background-color: #cce6ff;
      border-collapse: collapse;
    }
 
-tr:nth-child(odd) {
+tbody:tr:nth-child(odd) {
   background-color: #ddff99;
   
 }
