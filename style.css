@@ -8,16 +8,4 @@ background-color: #cce6ff;
      border-collapse: collapse;
    }
   
-  #paquito1 {
-   border: 1px solid red;
-   background-color: #ff66b3;
-  }
-  
-  .high:hover {
-   background-color: #ff66b3;
-  }
-  
-  .low {
-   color:red;
-  }
   
